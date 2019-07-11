@@ -14,9 +14,6 @@ class Counter extends Component {
     };
 
     render() {
-        console.log(this.props.decrement)
-        console.log(this.props.increment)
-        console.log(this.props.count)
         // Fill in the two button onClick methods
         // Upon clicking these buttons, the count
         // should decrement or increment accordingly
